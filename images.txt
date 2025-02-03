@@ -7,8 +7,9 @@
 #neilpang/acme.sh:latest
 #containrrr/watchtower:latest
 #adguard/adguardhome
+couchdb
 #支持私库
 #ghcr.io/immich-app/immich-server:release
 #ghcr.io/immich-app/immich-machine-learning:release
 #支持指定架构
---platform=linux/arm64 adguard/adguardhome
+#--platform=linux/arm64 adguard/adguardhome
