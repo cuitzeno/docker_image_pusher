@@ -1,7 +1,7 @@
 #dpanel/dpanel:lite
 #b3log/siyuan:latest
-#redis:latest
-#tensorchord/pgvecto-rs:pg16-v0.2.1
+redis:latest
+tensorchord/pgvecto-rs:pg16-v0.2.1
 #linuxserver/webtop:latest
 #portainer/agent:latest
 #neilpang/acme.sh:latest
@@ -9,7 +9,7 @@
 #adguard/adguardhome
 couchdb
 #支持私库
-#ghcr.io/immich-app/immich-server:release
-#ghcr.io/immich-app/immich-machine-learning:release
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
 #支持指定架构
 #--platform=linux/arm64 adguard/adguardhome
